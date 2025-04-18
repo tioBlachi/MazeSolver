@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# === CLion / JetBrains IDEs ===
+.idea/
+*.iml
+cmake-build-*/
